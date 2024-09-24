@@ -19,9 +19,9 @@ A simple and interactive web-based calculator that allows users to perform basic
 Navigate to the cloned directory and open index.html in your web browser.
 
 ## How to Use
-Enter numbers and operations using the buttons.
-Click = to compute the result.
-Use C to clear the input or the clear button to reset the calculator.
+1. Enter numbers and operations using the buttons.
+2. Click = to compute the result.
+3. Use C to clear the input or the clear button to reset the calculator.
 
 ## Code Overview
 ## HTML Structure:
